@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "I am attending Neurips in San Diego and looking for research scientist and postdoc positions"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am attending Neurips in San Diego and looking for research scientist and postdoc positions
+Short Bio
 ======
 I am a final year Ph.D. student at Arizona State University advised by Angelia Nedić and Lalitha Sankar. My research lies at the
 intersection of optimization, game theory, and machine learning, where I develop efficient and adaptive methods under weaker, more
-realistic assumptions arising in modern machine learning. My recent works provide new insights into the class of (𝐿!, 𝐿")-smooth
+realistic assumptions arising in modern machine learning. My recent works provide new insights into the class of (𝐿0, 𝐿1)-smooth
 functions and introduce efficient algorithms achieving the best-known complexity bounds for optimization and equilibrium problems.
 These results have been published at leading A* venues such as ICLR, ICML, and TMLR.
 I am particularly interested in game-theoretic perspectives on multi-agent reinforcement learning and strategic foundation models.
