@@ -95,6 +95,9 @@
 
   img {
     max-width: 175px;
+    width: 175px;        /* Force fixed width */
+    height: 175px;       /* Force fixed height (same as width) */
+    object-fit: cover;   /* Crops the image to fit the circle */
     border-radius: 50%;
 
     @include breakpoint($large) {
